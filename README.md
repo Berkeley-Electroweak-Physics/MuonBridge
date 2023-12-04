@@ -1,5 +1,5 @@
 # MuonBridge
-Matching of Standard Model Extensions to NRET   (Name of Repository is Changeable)
+Matching of Standard Model Extensions to NRET 
 
-Will add coordinated checkout of elastic one body density matrices and  mu2e NRET repository.
+Provides script to clone compatable versions of MuonConverter, Mu2e_NRET and Elastic
 
