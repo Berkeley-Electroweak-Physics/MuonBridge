@@ -1,5 +1,7 @@
 # MuonBridge
 
+<img src="Muon_Bridge_V4.png" alt="isolated" width="300"/>  
+
 The MuonBridge repository is the top level of a set of repositories that implement
 the matching of standard model extensions to NRET (nonrelativistic effective theory) describing
 the interaction of muon and nucleous and outgoing electron.
