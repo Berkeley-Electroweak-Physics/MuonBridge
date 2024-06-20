@@ -17,3 +17,13 @@ git clone git@github.com:Berkeley-Electroweak-Physics/MuonBridge.git
 cd MuonBridge
 sh setupbridge.sh
 ```
+
+# Python setup
+
+Make sure to be running at least version 3.9 of Python
+
+Modules with sufficiently updated versions can be installed with
+```sh
+cd MuonBridge # if not already in the directory
+pip3 install -r requirements.txt
+```
