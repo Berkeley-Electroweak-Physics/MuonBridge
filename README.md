@@ -1,6 +1,7 @@
-# MuonBridge
-<img src="muon_bridge_logo.png" alt="isolated" width="200"/>  
+# MuonBridge 
+<img src="muon_bridge_logo.png" alt="isolated" width="200"/> 
 
+### "Effective theory tower for $\mu \rightarrow e$ conversion" - [[arXiv:2406.13818](https://arxiv.org/abs/2406.13818)]
 The MuonBridge repository is the top level to a software suite that, through an effective theory tower, facilitate the matching 
 of charged-lepton-flavor-violating (CLFV) Standard Model extensions to a recently developed nonrelativistic effective theory (NRET)
 that describes the nuclear-level interactions of muon-to-electron conversion within the field of a nucleus[^1][^2]. This allows for the
