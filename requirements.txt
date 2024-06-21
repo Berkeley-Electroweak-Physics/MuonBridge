@@ -1,0 +1,7 @@
+matplotlib>=3.7.2
+multipledispatch>=1.0.0
+numpy>=1.25.2
+py3nj>=0.2.1
+PyYAML>=6.0.1
+scipy>=1.11.4
+pathlib>=1.0.1
