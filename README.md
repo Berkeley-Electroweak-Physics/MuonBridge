@@ -13,7 +13,7 @@ After cloning this repository, the running the script setupbridge.sh will automa
 of the sub-repositories.
 
 ```sh
-git clone git@github.com:Berkeley-Electroweak-Physics/MuonBridge.git
+git clone https://github.com/Berkeley-Electroweak-Physics/MuonBridge.git
 cd MuonBridge
 sh setupbridge.sh
 ```
