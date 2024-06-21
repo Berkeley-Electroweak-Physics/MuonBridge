@@ -20,24 +20,24 @@ elastic=Elastic
 # Repository for SMEFT -> Mu2e_NRET
 if [ ! -d ${muonconverter} ]
 then
-	echo git clone https://github.com:Berkeley-Electroweak-Physics/${muonconverter}.git
-	git clone https://github.com:Berkeley-Electroweak-Physics/${muonconverter}.git
+	echo git clone https://github.com/Berkeley-Electroweak-Physics/${muonconverter}.git
+	git clone https://github.com/Berkeley-Electroweak-Physics/${muonconverter}.git
 else
 	echo ../${muonconverter} " already exists. Use git pull to get changes if needed. "
 fi
 # Nucleon/nucleus level EFT for Muon to electron conversion
 if [ ! -d ${mu2e} ]
 then
-	echo git clone https://github.com:Berkeley-Electroweak-Physics/${mu2e}.git
-	git clone https://github.com:Berkeley-Electroweak-Physics/${mu2e}.git
+	echo git clone https://github.com/Berkeley-Electroweak-Physics/${mu2e}.git
+	git clone https://github.com/Berkeley-Electroweak-Physics/${mu2e}.git
 else
 	echo ../${mu2e} " already exists. Use git pull to get changes if needed. "
 fi
 # One-body density matrices for target nuclei
 if [ ! -d ${elastic} ]
 then
-	echo git clone https://github.com:Berkeley-Electroweak-Physics/${elastic}.git
-	git clone https://github.com:Berkeley-Electroweak-Physics/${elastic}.git
+	echo git clone https://github.com/Berkeley-Electroweak-Physics/${elastic}.git
+	git clone https://github.com/Berkeley-Electroweak-Physics/${elastic}.git
 else
 	echo ../${elastic} " already exists. Use git pull to get changes if needed. "
 fi
