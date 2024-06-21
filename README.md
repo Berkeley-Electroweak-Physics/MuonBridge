@@ -1,14 +1,16 @@
 # MuonBridge
 <img src="muon_bridge_logo.png" alt="isolated" width="200"/>  
 
-The MuonBridge repository is the top level of a set of repositories that implement the matching 
-of charged-lepton-flavor-violating Standard Model extensions to a recently developed  nonrelativistic 
-effective theory (NRET) describing the interaction of muon, nucleus and outgoing electron [^1][^2].
+The MuonBridge repository is the top level to a software suite that, through an effective theory tower, facilitate the matching 
+of charged-lepton-flavor-violating (CLFV) Standard Model extensions to a recently developed nonrelativistic effective theory (NRET)
+that describes the nuclear-level interactions of muon-to-electron conversion within the field of a nucleus[^1][^2]. This allows for the
+theoretical prediction of conversion rates and capture ratios within arbitrary CLFV UV completions that can be compared with
+experimental measurements.
 
-This repository clones three distinct sub-repositories ([MuonConverter](https://github.com/Berkeley-Electroweak-Physics/MuonConverter), [Mu2e_NRET](https://github.com/Berkeley-Electroweak-Physics/Mu2e_NRET) and [Elastic](https://github.com/Berkeley-Electroweak-Physics/Elastic)), into a
-set of directories so that they can access scripts and data files with relative paths.  
+This repository clones three distinct sub-repositories ([MuonConverter](https://github.com/Berkeley-Electroweak-Physics/MuonConverter), [Mu2e_NRET](https://github.com/Berkeley-Electroweak-Physics/Mu2e_NRET) and [Elastic](https://github.com/Berkeley-Electroweak-Physics/Elastic)), into a set of directories so that 
+they can access scripts and data files with relative paths.  
 
-After cloning this repository, the running the script ```setupbridge.sh``` will automatically obtain version compatible clones
+After cloning this repository, running the script ```setupbridge.sh``` will automatically obtain version compatible clones
 of the sub-repositories with the correct relative paths.
 
 ```sh
